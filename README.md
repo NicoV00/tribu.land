@@ -13,8 +13,11 @@ This project was made as the final project for Foundations of computer science i
 #### Frontend (Next.js)
 
 - **Next.js**: React framework for server-side rendering and static site generation.
+#### TRIBU
+- [VTribu.land](https://jotalgs.github.io/tribu.land)
 
 ## Authors
+
 Nicolás Valles - [Github](https://github.com/NicoV00)
 Jose Pedro Gil - [Github](https://github.com/JOTALGS)
 Nahuel Acosta - [Github](https://github.com/)
